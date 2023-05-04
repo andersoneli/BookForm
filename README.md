@@ -1,9 +1,9 @@
-# Flask Web Form Template
+
 Web form V1
 Eli Anderson
 Isobel Boyd
 
-This is a basic web form for cellecting information on books that users have read
+This is a basic web form for collecting information on books that users have read
 
 Instructions for running application
 
